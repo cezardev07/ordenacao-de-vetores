@@ -1,0 +1,1 @@
+export type vetorProps = number[]; // Declara um tipo para um array de números
